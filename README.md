@@ -28,7 +28,7 @@ To run the game locally, simply clone the repository and open index.html in your
 
 bash
 
-git clone https://github.com/yourusername/simon-says-game.git
+git clone https://github.com/piyushxbhardwaj/simon-says-game.git
 cd simon-says-game
 open index.html
 
